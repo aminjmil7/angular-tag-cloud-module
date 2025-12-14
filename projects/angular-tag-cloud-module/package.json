@@ -1,14 +1,14 @@
 {
   "name": "angular-tag-cloud-module",
-  "version": "20.0.0",
+  "version": "21.0.0",
   "license": "MIT",
   "peerDependencies": {
-    "@angular/common": "^20.0.0",
-    "@angular/core": "^20.0.0"
+    "@angular/common": "^20.0.0 || ^21.0.0",
+    "@angular/core": "^20.0.0 || ^21.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/d-koppenhagen/angular-tag-cloud-module.git",
+    "url": "https://github.com/aminjmil7/angular-tag-cloud-module.git",
     "directory": "projects/angular-tag-cloud-module"
   },
   "dependencies": {
